@@ -1,0 +1,7 @@
+# Build artifacts
+db/*
+incremental_db/*
+output_files/*
+simulation/*
+m2ps2.qsf
+m2ps2.qws
